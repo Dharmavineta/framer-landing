@@ -1,5 +1,4 @@
 import { useContext } from "react";
-import React from "react";
 import AnimRoutes from "./components/AnimRoutes";
 import { CursorContext } from "./context/CursorContext";
 import { motion } from "framer-motion";
